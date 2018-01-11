@@ -1,3 +1,3 @@
 def position_taken?(array,index)
-  if array[index]==" "
+  if .include? array[index]==" "
 end
