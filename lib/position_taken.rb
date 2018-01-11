@@ -3,4 +3,5 @@ def position_taken?(array,index)
     false
   else
     true
+  end
 end
